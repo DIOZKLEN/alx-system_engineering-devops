@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'END{print ">"$0}1' > iacta
+awk 'END{print ">"$0}1' iacta >> iacta
